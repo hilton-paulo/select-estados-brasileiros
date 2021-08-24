@@ -1,1 +1,3 @@
-Descrição dos estados brasileiros mais o Distrito Federal, em um select HTML muito útil na criação de formulários.
+Select Estados do Brasil
+
+Descrição dos estados brasileiros mais o Distrito Federal, em um select muito útil na criação de formulários em HTML.
